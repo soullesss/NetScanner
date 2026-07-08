@@ -17,7 +17,7 @@ Ela valida o escopo antes de tocar na rede, monta argumentos seguros para o Nmap
 
 Ferramentas de inteligência artificial foram utilizadas ocasionalmente como apoio para pesquisa, consulta de documentação e esclarecimento de dúvidas durante o desenvolvimento.
 
-Todo o conteúdo gerado com o auxílio de inteligência artificial e incorporado ao projeto foi revisado e validado antes de sua utilização, a fim de garantir sua adequação e reduzir a possibilidade de erros artificiais.
+Todo o conteúdo gerado com o auxílio de inteligência artificial e incorporado ao projeto foi revisado, validado e adequado antes de sua utilização, com o objetivo de garantir sua consistência e reduzir a possibilidade de erros.
 
 ## Requisitos
 
