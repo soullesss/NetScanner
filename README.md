@@ -13,6 +13,11 @@ Ela valida o escopo antes de tocar na rede, monta argumentos seguros para o Nmap
 - Exporta resultado em `text`, `json` ou `csv`.
 - Exige confirmacao explicita de autorizacao antes de rodar scan real.
 
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20macOS-success)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Version](https://img.shields.io/badge/version-v0.1.0-blue)
+
 ## 🤖 Ferramentas utilizadas
 
 Ferramentas de inteligência artificial foram utilizadas ocasionalmente como apoio para pesquisa, consulta de documentação e esclarecimento de dúvidas durante o desenvolvimento.
