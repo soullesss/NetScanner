@@ -88,4 +88,4 @@ Veja `examples/` para saidas de plano e relatorio.
 
 ## Nota de seguranca
 
-Use apenas em redes e sistemas onde voce tem autorizacao. A CLI bloqueia scan real sem `--i-have-authorization`, mas a responsabilidade pelo escopo continua sendo do operador.
+Use apenas em redes e sistemas onde voce tem autorizacao. A CLI bloqueia scan real sem `--i-have-authorization`, mas a responsabilidade pelo escopo continua sendo do operador..
